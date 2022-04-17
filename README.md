@@ -23,6 +23,7 @@ images :
 
 
 
+Detail
 
 FR : Pour plus de détails je vous invite à installer
 EN : For more details I invite you to install
@@ -33,7 +34,7 @@ Information
 FR : Le PackChanger sera mis a jour regulièrement, je vous invite a rejoindre le discord : https://discord.gg/CkzwhVMZbT
 EN : The PackChanger will be updated regularly, I invite you to join the discord: https://discord.gg/CkzwhVMZbT
 
-Support
+Support 
 
 FR : Si vous rencontrez un problème veuillez rejoindre le discord pour en savoir plus!!!
 EN : If you have any problem please join the discord to find out more!!!
