@@ -51,3 +51,5 @@ Language : 'EN'
 Disable your Antivirus if the software does not want to open,
 Warning: if you think there is a potential virus, simply do not install it
 Of course there is by no means a single virus in the software.
+
+!!! Arrêtez de vendre le PackChanger, on vous voit de très loin. (Risk ban) !!!
