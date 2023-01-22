@@ -3,7 +3,7 @@
 </h1>
 
 <a id="setup2"><p align="center">
-  [PackChanger.com](https://packchanger.com)
+  The latest version of PackChanger Free. [PackChanger.com](https://packchanger.com)
 </p></a>
 
 **What is PackChanger?**
