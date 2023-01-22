@@ -34,7 +34,7 @@ Of course there is by no means a single virus in the software.<br>
  ### 🛒〢 `Paid version`
 
   
-### 🥊 〢 PackChanger VIP
+### 🌟 〢 PackChanger VIP
 
 - Lifetime 
 - Free Updates 
