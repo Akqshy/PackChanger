@@ -2,7 +2,7 @@
   PackChanger Free
 </h1>
 
-<a id="setup2"<p align="center">
+<a id="setup2"><p align="center">
   [PackChanger.com](https://packchanger.com)
 </p></a>
 
