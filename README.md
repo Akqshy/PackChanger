@@ -2,10 +2,9 @@
   PackChanger Free
 </h1>
 
-<p align="center">
-## <a id="setup2"></a> 📦 〢 Product
+<p align="center" a id="setup2">
   [PackChanger.com](https://packchanger.com)
-</p>
+</p></a>
 
 **What is PackChanger?**
 
