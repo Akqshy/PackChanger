@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  https://packchanger.com
+  [packchanger.com](https://packchanger.com)
 </p>
 
 **What is PackChanger?**
