@@ -2,8 +2,8 @@
   PackChanger Free
 </h1>
 
-<p align="center">
-  [Discord](https://packchanger.com)
+<p align="center" a id="setup2"></a>
+  [PackChanger.com](https://packchanger.com)
 </p>
 
 **What is PackChanger?**
@@ -16,7 +16,7 @@ Thanks to the PackChanger you can put whatever you want in ONE CLICK!<br>
 
 ## <a id="setup2"></a> 📦 〢 Product
 - This is the free version of PackChanger there is no update I advise you to buy the VIP there is more content created by us
-- [Discord](https://discord.gg/fDTHeTy52A) 
+- [Discord](https://discord.gg/fDTHeTy52A)
 
 ### 🔆〢 Installation
 Disable your Antivirus if the software does not want to open,<br>
