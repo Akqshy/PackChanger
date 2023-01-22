@@ -2,14 +2,14 @@ FR :
 C'est quoi ?
 PackChanger c'est un logiciel destiner pour FiveM,
 Grace au PackChanger vous pouvez mettre ce que vous voulez en UN SEUL CLIQUE!
-Vous pouvez installer un Texture Pack, BloodFX, Tracer ect...
+Vous pouvez installer un Skin d'armes, Texture Pack, BloodFX, Tracer ect...
 Vous avez plusieurs options supplémentaires
 Si vous êtes un GunFighter c'est ce qui est le meilleur pour vous.
 
 EN :
 What's this ?
 PackChanger is a software designed for FiveM,
-You can install a Texture Pack, BloodFX, Tracer ect...
+You can install a Weapon Skin, Texture Pack, BloodFX, Tracer ect...
 You have several additional options
 If you are a GunFighter this is what is best for you
 Thanks to the PackChanger you can put whatever you want in ONE CLICK!
