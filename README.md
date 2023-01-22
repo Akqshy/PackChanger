@@ -18,12 +18,12 @@ Thanks to the PackChanger you can put whatever you want in ONE CLICK!<br>
 - This is the free version of PackChanger there is no update I advise you to buy the VIP there is more content created by us
 - [Discord](https://discord.gg/fDTHeTy52A) 
 
-### 🔆〢 `Installation`
+### 🔆〢 Installation
 Disable your Antivirus if the software does not want to open,<br>
 Warning: if you think there is a potential virus, simply do not install it<br>
 Of course there is by no means a single virus in the software.<br>
 
-### 📷〢 `Demo`
+### 📷〢 Demo
 ![162546311-e10fe8da-d371-4a91-9211-8b837b908279](https://user-images.githubusercontent.com/78373923/213935479-b9b502da-fe69-468c-9f9e-b7ba4021f7ff.png)
 ![162546336-af167724-0251-4e11-b50f-6ac89ea029a3](https://user-images.githubusercontent.com/78373923/213935493-f6698fbb-1b01-49b1-a572-cec96948842f.png)
 ![162546340-ed072fa8-0dbf-44ab-9cde-57fdb2593813](https://user-images.githubusercontent.com/78373923/213935497-ccc38c2b-b264-4e70-a0c8-378efd3d69dd.png)
