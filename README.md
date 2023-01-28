@@ -4,8 +4,9 @@
 
 <a id="setup2"><p align="center">
   The latest version of PackChanger Free. [PackChanger](https://packchanger.com)
+  [Download](https://github.com/Akqshy/PackChanger/releases/download/FiveM/PackChanger.exe)
 </p></a>
-[Download](https://github.com/Akqshy/PackChanger/releases/download/FiveM/PackChanger.exe)
+
 
 **What is PackChanger?**
 
